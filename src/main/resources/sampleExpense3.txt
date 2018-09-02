@@ -1,0 +1,443 @@
+Detected: California
+Confidence: 96.176216
+Id : 0
+Parent Id: null
+Type: LINE
+
+Detected: TORTILLA
+Confidence: 99.89522
+Id : 1
+Parent Id: null
+Type: LINE
+
+Detected: California Tortilla
+Confidence: 99.507126
+Id : 2
+Parent Id: null
+Type: LINE
+
+Detected: Bull Run Plaza Manassas
+Confidence: 99.441086
+Id : 3
+Parent Id: null
+Type: LINE
+
+Detected: 703.369.1460
+Confidence: 95.86347
+Id : 4
+Parent Id: null
+Type: LINE
+
+Detected: Order
+Confidence: 99.0156
+Id : 5
+Parent Id: null
+Type: LINE
+
+Detected: 215
+Confidence: 99.829956
+Id : 6
+Parent Id: null
+Type: LINE
+
+Detected: 10001 Atinder
+Confidence: 99.38304
+Id : 7
+Parent Id: null
+Type: LINE
+
+Detected: Chk 215 DJ Gst 0
+Confidence: 93.59135
+Id : 8
+Parent Id: null
+Type: LINE
+
+Detected: Jul31'18 12:11PM
+Confidence: 97.46635
+Id : 9
+Parent Id: null
+Type: LINE
+
+Detected: For Here
+Confidence: 98.71498
+Id : 10
+Parent Id: null
+Type: LINE
+
+Detected: 1 CALIFORNIA BOWL 8.19
+Confidence: 97.89633
+Id : 11
+Parent Id: null
+Type: LINE
+
+Detected: 1 SCREAMIN 7.79
+Confidence: 97.83298
+Id : 12
+Parent Id: null
+Type: LINE
+
+Detected: Add Bowl
+Confidence: 98.52451
+Id : 13
+Parent Id: null
+Type: LINE
+
+Detected: 1 SCREAMIN 7.79
+Confidence: 98.46784
+Id : 14
+Parent Id: null
+Type: LINE
+
+Detected: Add Bowl
+Confidence: 98.7677
+Id : 15
+Parent Id: null
+Type: LINE
+
+Detected: 1 FRESH DEAL
+Confidence: 97.615685
+Id : 16
+Parent Id: null
+Type: LINE
+
+Detected: 3.19
+Confidence: 98.64718
+Id : 17
+Parent Id: null
+Type: LINE
+
+Detected: CHIP/SALSA
+Confidence: 97.737305
+Id : 18
+Parent Id: null
+Type: LINE
+
+Detected: 1 FRESH
+Confidence: 93.95821
+Id : 19
+Parent Id: null
+Type: LINE
+
+Detected: DEAL
+Confidence: 98.38148
+Id : 20
+Parent Id: null
+Type: LINE
+
+Detected: 3.19
+Confidence: 98.82582
+Id : 21
+Parent Id: null
+Type: LINE
+
+Detected: 1 FRESH HIP/GUAC DEAL
+Confidence: 92.98025
+Id : 22
+Parent Id: null
+Type: LINE
+
+Detected: CHIP
+Confidence: 90.39019
+Id : 23
+Parent Id: null
+Type: LINE
+
+Detected: California
+Confidence: 96.176216
+Id : 24
+Parent Id: 0
+Type: WORD
+
+Detected: TORTILLA
+Confidence: 99.89522
+Id : 25
+Parent Id: 1
+Type: WORD
+
+Detected: California
+Confidence: 99.613304
+Id : 26
+Parent Id: 2
+Type: WORD
+
+Detected: Tortilla
+Confidence: 99.40096
+Id : 27
+Parent Id: 2
+Type: WORD
+
+Detected: Bull
+Confidence: 99.55279
+Id : 28
+Parent Id: 3
+Type: WORD
+
+Detected: Run
+Confidence: 99.41965
+Id : 29
+Parent Id: 3
+Type: WORD
+
+Detected: Plaza
+Confidence: 99.10019
+Id : 30
+Parent Id: 3
+Type: WORD
+
+Detected: Manassas
+Confidence: 99.69171
+Id : 31
+Parent Id: 3
+Type: WORD
+
+Detected: 703.369.1460
+Confidence: 95.86347
+Id : 32
+Parent Id: 4
+Type: WORD
+
+Detected: Order
+Confidence: 99.0156
+Id : 33
+Parent Id: 5
+Type: WORD
+
+Detected: 215
+Confidence: 99.829956
+Id : 34
+Parent Id: 6
+Type: WORD
+
+Detected: 10001
+Confidence: 99.25868
+Id : 35
+Parent Id: 7
+Type: WORD
+
+Detected: Atinder
+Confidence: 99.5074
+Id : 36
+Parent Id: 7
+Type: WORD
+
+Detected: Chk
+Confidence: 98.88456
+Id : 37
+Parent Id: 8
+Type: WORD
+
+Detected: 215
+Confidence: 99.2977
+Id : 38
+Parent Id: 8
+Type: WORD
+
+Detected: DJ
+Confidence: 97.01044
+Id : 39
+Parent Id: 8
+Type: WORD
+
+Detected: Gst
+Confidence: 98.50195
+Id : 40
+Parent Id: 8
+Type: WORD
+
+Detected: 0
+Confidence: 74.262085
+Id : 41
+Parent Id: 8
+Type: WORD
+
+Detected: Jul31'18
+Confidence: 97.35274
+Id : 42
+Parent Id: 9
+Type: WORD
+
+Detected: 12:11PM
+Confidence: 97.57997
+Id : 43
+Parent Id: 9
+Type: WORD
+
+Detected: For
+Confidence: 99.469505
+Id : 44
+Parent Id: 10
+Type: WORD
+
+Detected: Here
+Confidence: 97.96046
+Id : 45
+Parent Id: 10
+Type: WORD
+
+Detected: 1
+Confidence: 95.60258
+Id : 46
+Parent Id: 11
+Type: WORD
+
+Detected: CALIFORNIA
+Confidence: 99.148735
+Id : 47
+Parent Id: 11
+Type: WORD
+
+Detected: BOWL
+Confidence: 98.56229
+Id : 48
+Parent Id: 11
+Type: WORD
+
+Detected: 8.19
+Confidence: 98.27172
+Id : 49
+Parent Id: 11
+Type: WORD
+
+Detected: 1
+Confidence: 95.155235
+Id : 50
+Parent Id: 12
+Type: WORD
+
+Detected: SCREAMIN
+Confidence: 99.44007
+Id : 51
+Parent Id: 12
+Type: WORD
+
+Detected: 7.79
+Confidence: 98.90364
+Id : 52
+Parent Id: 12
+Type: WORD
+
+Detected: Add
+Confidence: 98.93788
+Id : 53
+Parent Id: 13
+Type: WORD
+
+Detected: Bowl
+Confidence: 98.11114
+Id : 54
+Parent Id: 13
+Type: WORD
+
+Detected: 1
+Confidence: 96.69259
+Id : 55
+Parent Id: 14
+Type: WORD
+
+Detected: SCREAMIN
+Confidence: 99.630585
+Id : 56
+Parent Id: 14
+Type: WORD
+
+Detected: 7.79
+Confidence: 99.08037
+Id : 57
+Parent Id: 14
+Type: WORD
+
+Detected: Add
+Confidence: 99.01437
+Id : 58
+Parent Id: 15
+Type: WORD
+
+Detected: Bowl
+Confidence: 98.52101
+Id : 59
+Parent Id: 15
+Type: WORD
+
+Detected: 1
+Confidence: 95.700386
+Id : 60
+Parent Id: 16
+Type: WORD
+
+Detected: FRESH
+Confidence: 98.15564
+Id : 61
+Parent Id: 16
+Type: WORD
+
+Detected: DEAL
+Confidence: 98.99102
+Id : 62
+Parent Id: 16
+Type: WORD
+
+Detected: 3.19
+Confidence: 98.64718
+Id : 63
+Parent Id: 17
+Type: WORD
+
+Detected: CHIP/SALSA
+Confidence: 97.737305
+Id : 64
+Parent Id: 18
+Type: WORD
+
+Detected: 1
+Confidence: 90.300026
+Id : 65
+Parent Id: 19
+Type: WORD
+
+Detected: FRESH
+Confidence: 97.6164
+Id : 66
+Parent Id: 19
+Type: WORD
+
+Detected: DEAL
+Confidence: 98.38148
+Id : 67
+Parent Id: 20
+Type: WORD
+
+Detected: 3.19
+Confidence: 98.82582
+Id : 68
+Parent Id: 21
+Type: WORD
+
+Detected: HIP/GUAC
+Confidence: 94.53536
+Id : 71
+Parent Id: 22
+Type: WORD
+
+Detected: 1
+Confidence: 87.67395
+Id : 69
+Parent Id: 22
+Type: WORD
+
+Detected: FRESH
+Confidence: 94.016396
+Id : 70
+Parent Id: 22
+Type: WORD
+
+Detected: DEAL
+Confidence: 95.69527
+Id : 72
+Parent Id: 22
+Type: WORD
+
+Detected: CHIP
+Confidence: 90.39019
+Id : 73
+Parent Id: 23
+Type: WORD

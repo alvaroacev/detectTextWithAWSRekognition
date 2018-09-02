@@ -1,0 +1,377 @@
+Detected: FARMACIAS CRUZ VERDE S.A.
+Confidence: 98.714134
+Id : 0
+Parent Id: null
+Type: LINE
+
+Detected: R.U.T.: 89.807.20
+Confidence: 97.852936
+Id : 1
+Parent Id: null
+Type: LINE
+
+Detected: Casa
+Confidence: 99.15625
+Id : 2
+Parent Id: null
+Type: LINE
+
+Detected: Matriz: AVENIDA EL SALTO H 4875, HUECHURABA,
+Confidence: 95.70901
+Id : 3
+Parent Id: null
+Type: LINE
+
+Detected: ENFERMERIA,
+Confidence: 99.638214
+Id : 4
+Parent Id: null
+Type: LINE
+
+Detected: HUECHURABA
+Confidence: 99.55329
+Id : 5
+Parent Id: null
+Type: LINE
+
+Detected: Giro: FARMACIAS Y PERFUMERIAS seRvICIOS DE
+Confidence: 92.71471
+Id : 6
+Parent Id: null
+Type: LINE
+
+Detected: VENTA DE PRODUCTOS ALIMENTICIOS, MINIMARKET, SERVICIOS
+Confidence: 98.47731
+Id : 7
+Parent Id: null
+Type: LINE
+
+Detected: POSTALES Y DE RECAUDACION
+Confidence: 96.00099
+Id : 8
+Parent Id: null
+Type: LINE
+
+Detected: Boleta Electronica NO 659942623 Caja: 2
+Confidence: 97.320404
+Id : 9
+Parent Id: null
+Type: LINE
+
+Detected: Fecha: 01-09-2018 Hora: 17:54:28
+Confidence: 97.85155
+Id : 10
+Parent Id: null
+Type: LINE
+
+Detected: Sucursal: 400 AVOA. PDTE. KENNEDY 5413 CONDES
+Confidence: 98.08193
+Id : 11
+Parent Id: null
+Type: LINE
+
+Detected: VALOR
+Confidence: 98.84692
+Id : 12
+Parent Id: null
+Type: LINE
+
+Detected: CRUZ
+Confidence: 99.63538
+Id : 14
+Parent Id: 0
+Type: WORD
+
+Detected: VERDE
+Confidence: 99.46576
+Id : 15
+Parent Id: 0
+Type: WORD
+
+Detected: S.A.
+Confidence: 98.15179
+Id : 16
+Parent Id: 0
+Type: WORD
+
+Detected: FARMACIAS
+Confidence: 97.60362
+Id : 13
+Parent Id: 0
+Type: WORD
+
+Detected: R.U.T.:
+Confidence: 99.58778
+Id : 17
+Parent Id: 1
+Type: WORD
+
+Detected: 89.807.20
+Confidence: 96.118095
+Id : 18
+Parent Id: 1
+Type: WORD
+
+Detected: H
+Confidence: 77.678314
+Id : 24
+Parent Id: 3
+Type: WORD
+
+Detected: Matriz:
+Confidence: 99.24044
+Id : 20
+Parent Id: 3
+Type: WORD
+
+Detected: AVENIDA
+Confidence: 99.30848
+Id : 21
+Parent Id: 3
+Type: WORD
+
+Detected: EL
+Confidence: 97.83181
+Id : 22
+Parent Id: 3
+Type: WORD
+
+Detected: SALTO
+Confidence: 97.987274
+Id : 23
+Parent Id: 3
+Type: WORD
+
+Detected: 4875,
+Confidence: 98.17141
+Id : 25
+Parent Id: 3
+Type: WORD
+
+Detected: HUECHURABA,
+Confidence: 99.74532
+Id : 26
+Parent Id: 3
+Type: WORD
+
+Detected: Casa
+Confidence: 99.15625
+Id : 19
+Parent Id: 2
+Type: WORD
+
+Detected: HUECHURABA
+Confidence: 99.55329
+Id : 28
+Parent Id: 5
+Type: WORD
+
+Detected: DE
+Confidence: 99.16713
+Id : 34
+Parent Id: 6
+Type: WORD
+
+Detected: ENFERMERIA,
+Confidence: 99.638214
+Id : 27
+Parent Id: 4
+Type: WORD
+
+Detected: FARMACIAS
+Confidence: 98.87556
+Id : 30
+Parent Id: 6
+Type: WORD
+
+Detected: Y
+Confidence: 81.58332
+Id : 31
+Parent Id: 6
+Type: WORD
+
+Detected: PERFUMERIAS
+Confidence: 96.727776
+Id : 32
+Parent Id: 6
+Type: WORD
+
+Detected: seRvICIOS
+Confidence: 85.56067
+Id : 33
+Parent Id: 6
+Type: WORD
+
+Detected: Giro:
+Confidence: 94.37381
+Id : 29
+Parent Id: 6
+Type: WORD
+
+Detected: SERVICIOS
+Confidence: 99.56465
+Id : 40
+Parent Id: 7
+Type: WORD
+
+Detected: DE
+Confidence: 98.66188
+Id : 36
+Parent Id: 7
+Type: WORD
+
+Detected: PRODUCTOS
+Confidence: 99.25027
+Id : 37
+Parent Id: 7
+Type: WORD
+
+Detected: ALIMENTICIOS,
+Confidence: 97.492966
+Id : 38
+Parent Id: 7
+Type: WORD
+
+Detected: MINIMARKET,
+Confidence: 99.076065
+Id : 39
+Parent Id: 7
+Type: WORD
+
+Detected: VENTA
+Confidence: 96.81801
+Id : 35
+Parent Id: 7
+Type: WORD
+
+Detected: POSTALES
+Confidence: 98.60573
+Id : 41
+Parent Id: 8
+Type: WORD
+
+Detected: Y
+Confidence: 88.35987
+Id : 42
+Parent Id: 8
+Type: WORD
+
+Detected: DE
+Confidence: 98.09526
+Id : 43
+Parent Id: 8
+Type: WORD
+
+Detected: RECAUDACION
+Confidence: 98.94312
+Id : 44
+Parent Id: 8
+Type: WORD
+
+Detected: 2
+Confidence: 95.31824
+Id : 50
+Parent Id: 9
+Type: WORD
+
+Detected: 659942623
+Confidence: 98.76891
+Id : 48
+Parent Id: 9
+Type: WORD
+
+Detected: Boleta
+Confidence: 98.84885
+Id : 45
+Parent Id: 9
+Type: WORD
+
+Detected: Electronica
+Confidence: 98.876465
+Id : 46
+Parent Id: 9
+Type: WORD
+
+Detected: NO
+Confidence: 95.969185
+Id : 47
+Parent Id: 9
+Type: WORD
+
+Detected: Caja:
+Confidence: 96.14076
+Id : 49
+Parent Id: 9
+Type: WORD
+
+Detected: Hora:
+Confidence: 98.950294
+Id : 53
+Parent Id: 10
+Type: WORD
+
+Detected: 17:54:28
+Confidence: 98.74878
+Id : 54
+Parent Id: 10
+Type: WORD
+
+Detected: Fecha:
+Confidence: 96.09874
+Id : 51
+Parent Id: 10
+Type: WORD
+
+Detected: 01-09-2018
+Confidence: 97.6084
+Id : 52
+Parent Id: 10
+Type: WORD
+
+Detected: 5413
+Confidence: 98.60942
+Id : 60
+Parent Id: 11
+Type: WORD
+
+Detected: CONDES
+Confidence: 99.116455
+Id : 61
+Parent Id: 11
+Type: WORD
+
+Detected: Sucursal:
+Confidence: 98.21028
+Id : 55
+Parent Id: 11
+Type: WORD
+
+Detected: 400
+Confidence: 97.99061
+Id : 56
+Parent Id: 11
+Type: WORD
+
+Detected: AVOA.
+Confidence: 96.319046
+Id : 57
+Parent Id: 11
+Type: WORD
+
+Detected: PDTE.
+Confidence: 97.420204
+Id : 58
+Parent Id: 11
+Type: WORD
+
+Detected: KENNEDY
+Confidence: 98.90755
+Id : 59
+Parent Id: 11
+Type: WORD
+
+Detected: VALOR
+Confidence: 98.84692
+Id : 62
+Parent Id: 12
+Type: WORD
